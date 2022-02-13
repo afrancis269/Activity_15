@@ -1,0 +1,12 @@
+F:\Coding\web_19.08.2021\CST150\Activity_15\Activity_15\bin\Debug\Activity_15.exe.config
+F:\Coding\web_19.08.2021\CST150\Activity_15\Activity_15\bin\Debug\Activity_15.exe
+F:\Coding\web_19.08.2021\CST150\Activity_15\Activity_15\bin\Debug\Activity_15.pdb
+F:\Coding\web_19.08.2021\CST150\Activity_15\Activity_15\obj\Debug\Activity_15.csproj.AssemblyReference.cache
+F:\Coding\web_19.08.2021\CST150\Activity_15\Activity_15\obj\Debug\Activity_15.csproj.SuggestedBindingRedirects.cache
+F:\Coding\web_19.08.2021\CST150\Activity_15\Activity_15\obj\Debug\Activity_15.Form1.resources
+F:\Coding\web_19.08.2021\CST150\Activity_15\Activity_15\obj\Debug\Activity_15.Form2.resources
+F:\Coding\web_19.08.2021\CST150\Activity_15\Activity_15\obj\Debug\Activity_15.Properties.Resources.resources
+F:\Coding\web_19.08.2021\CST150\Activity_15\Activity_15\obj\Debug\Activity_15.csproj.GenerateResource.cache
+F:\Coding\web_19.08.2021\CST150\Activity_15\Activity_15\obj\Debug\Activity_15.csproj.CoreCompileInputs.cache
+F:\Coding\web_19.08.2021\CST150\Activity_15\Activity_15\obj\Debug\Activity_15.exe
+F:\Coding\web_19.08.2021\CST150\Activity_15\Activity_15\obj\Debug\Activity_15.pdb
